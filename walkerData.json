@@ -1,0 +1,79 @@
+[
+    {
+        "name": "John Smith",
+        "username": "johnsmith9872",
+        "bio": "I love going on walks with people and exploring new neighborhoods.",
+        "profileImage": "https://example.com/john.jpg",
+        "rating": 4.8
+    },
+    {
+        "name": "Emily Jones",
+        "username": "emilyjones1234",
+        "bio": "I enjoy meeting new people and sharing stories while we walk.",
+        "profileImage": "https://example.com/emily.jpg",
+        "rating": 4.9
+    },
+    {
+        "name": "Tom Davis",
+        "username": "tomdavis5678",
+        "bio": "I believe walking with someone is a great way to bond and connect.",
+        "profileImage": "https://example.com/tom.jpg",
+        "rating": 4.7
+    },
+    {
+        "name": "Ava Thompson",
+        "username": "avathompson2468",
+        "bio": "I love to explore new parks and trails with others.",
+        "profileImage": "https://example.com/ava.jpg",
+        "rating": 4.7
+    },
+    {
+        "name": "Michael Rodriguez",
+        "username": "michaelrodriguez7890",
+        "bio": "I enjoy walking with people and their furry friends.",
+        "profileImage": "https://example.com/michael.jpg",
+        "rating": 4.8
+    },
+    {
+        "name": "Sarah Wilson",
+        "username": "sarahwilson0123",
+        "bio": "I believe walking with others is a great way to stay active and healthy.",
+        "profileImage": "https://example.com/sarah.jpg",
+        "rating": 4.9
+    },
+    {
+        "name": "David Lee",
+        "username": "davidlee4567",
+        "bio": "I enjoy discovering new sights and sounds while on a walk with someone.",
+        "profileImage": "https://example.com/david.jpg",
+        "rating": 4.7
+    },
+    {
+        "name": "Olivia Perez",
+        "username": "oliviaperez8901",
+        "bio": "I love to experience nature with others and their pets.",
+        "profileImage": "https://example.com/olivia.jpg",
+        "rating": 4.8
+    },
+    {
+        "name": "Jack Johnson",
+        "username": "jackjohnson2345",
+        "bio": "I believe walking with someone is a great way to clear your mind and reduce stress.",
+        "profileImage": "https://example.com/jack.jpg",
+        "rating": 4.7
+    },
+    {
+        "name": "Emma Smith",
+        "username": "emmasmith6789",
+        "bio": "I enjoy walking and talking with others to learn about their lives.",
+        "profileImage": "https://example.com/emma.jpg",
+        "rating": 4.8
+    },
+    {
+        "name": "Benjamin Davis",
+        "username": "benjamindavis0123",
+        "bio": "I believe walking with someone is a great way to build new friendships.",
+        "profileImage": "https://example.com/ben.jpg",
+        "rating": 4.7
+    }
+]
